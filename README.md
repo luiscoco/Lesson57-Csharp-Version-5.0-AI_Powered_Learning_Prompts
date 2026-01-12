@@ -4,11 +4,11 @@
 
 Your AI assistant plays different roles depending on the prompt:
 
-•	Concurrency Architect → explains intent, design pressure, and system-level impact
+•	Concurrency Architect: explains intent, design pressure, and system-level impact
 
-•	Mental Model Coach → checks whether you understand what is happening, not how to type it
+•	Mental Model Coach: checks whether you understand what is happening, not how to type it
 
-•	Language Evolution Analyst → evaluates whether a feature is foundational or incidental
+•	Language Evolution Analyst: evaluates whether a feature is foundational or incidental
 
 You are not writing code first.
 
